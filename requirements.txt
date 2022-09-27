@@ -1,2 +1,5 @@
 fastapi
-uvcorn
+uvicorn
+jinja2
+aiofiles
+pandas
